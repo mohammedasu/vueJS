@@ -24,7 +24,7 @@ Vue.use(VueMask);
 Vue.use(require("vue-chartist"));
 Vue.use(VueGoogleMaps, {
    load: {
-      key: "AIzaSyAbvyBxmMbFhrzP9Z8moyYr6dCr-pzjhBE",
+      key: "google-api-key",
       libraries: "places",
    },
    installComponents: true,
